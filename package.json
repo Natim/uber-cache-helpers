@@ -1,7 +1,7 @@
 {
   "name": "uber-cache-helpers",
-  "description": "getEngine from config.",
-  "version": "0.1.0",
+  "description": "getCacheBackend from config.",
+  "version": "0.2.0-DEV",
   "author": "Rémy Hubscher <natim@mozilla.com>",
   "homepage": "https://github.com/Natim/uber-cache-helpers",
   "license" : "BSD",
