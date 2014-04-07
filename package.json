@@ -1,7 +1,7 @@
 {
   "name": "uber-cache-helpers",
   "description": "getEngine from config.",
-  "version": "0.1.0-DEV",
+  "version": "0.1.0",
   "author": "Rémy Hubscher <natim@mozilla.com>",
   "homepage": "https://github.com/Natim/uber-cache-helpers",
   "license" : "BSD",
@@ -14,7 +14,7 @@
     "node": ">= 0.10.0"
   },
   "dependencies": {
-    "uber-cache": "1.1.0",
+    "uber-cache": "1.1.0"
   },
   "devDependencies": {
     "lodash": "*",
